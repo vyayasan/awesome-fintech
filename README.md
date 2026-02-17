@@ -1,4 +1,4 @@
-# Awesome Fintech
+#Compliance ## SanctionsAwesome Fintech
 
 A curated collection of **open source fintech libraries and resources**. This is not a complete list,
 so please feel free to submit a pull request adding a project with a short description! Actively
@@ -63,6 +63,11 @@ link to their source-available code for inclusion.
 - [Fintech dictionary](https://github.com/moov-io/terms-dictionary) - simple definitions of fintech terms and acronyms
 
 ## Icons
+
+
+## Compliance & AML
+
+- [KYC Analyst](https://github.com/vyayasan/kyc-analyst) - Open-source KYC/AML compliance automation plugin for Claude Cowork, Claude Code, or any Claude client. Features 17 mandatory human-in-the-loop checkpoints, deterministic risk scoring, and free public data sources (OFAC, UN, Companies House). Tested in fintech pilot showing 27 min/case processing with zero vendor lock-in. MIT licensed.
 - [PaymentFont](https://github.com/AlexanderPoellmann/PaymentFont) - a sleek webfont featuring popular payment methods
 - [payment-webfont](https://github.com/orlandotm/payment-webfont) - an SVG webfont full of payment system and ecommerce icons
 - [Remix Icon](https://github.com/Remix-Design/RemixIcon) - set of neutral-style system symbols, including but not limited to payment method icons, for designers and developers
